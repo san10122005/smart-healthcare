@@ -1,0 +1,5 @@
+PatientID,Age,Gender,BloodPressure,HeartRate,Diabetes,Diagnosis
+1001,45,M,130/85,72,Yes,Hypertension
+1002,60,F,140/90,80,No,Normal
+1003,35,M,120/80,65,Yes,Pre-Diabetes
+1004,50,F,135/88,75,No,Hypertension
